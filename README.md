@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Smith ;)
 
-- 🔭 Atualmente estudando programação
-- 🌱 Desenvolvedor de Software
+- 🔭 Estudando Programação HTML,CSS,Js
+- 🌱 Desenvolvedor de Software 
 - 😄 Pronouns: ele/dele
 <div>
   <a href="https://beacons.ai/CaioSmith">
