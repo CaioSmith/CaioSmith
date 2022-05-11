@@ -6,7 +6,7 @@
 <div>
   <a href="https://beacons.ai/CaioSmith">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSmith&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSmith&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSmith&show_icons=true">
 </div>
   
   <div style="display: inline_block"><br>
