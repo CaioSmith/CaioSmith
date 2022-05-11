@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Smith ;)
 
-- 🔭 Estudando Programação HTML,CSS,Js
+- 🔭 Estudando Programação HTML, CSS, Js
 - 🌱 Desenvolvedor de Software 
 - 😄 Pronouns: ele/dele
 <div>
